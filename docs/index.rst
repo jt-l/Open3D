@@ -29,7 +29,7 @@ Open3D: A Modern Library for 3D Data Processing
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Tutorial
 
     tutorial/geometry/index
